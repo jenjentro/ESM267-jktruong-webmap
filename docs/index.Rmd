@@ -35,12 +35,14 @@ The following layers were added to the map:
 
 - Yellow pine and mixed conifer forest polygons from [CALVEG](https://www.fs.usda.gov/detail/r5/landmanagement/resourcemanagement/?cid=stelprdb5347192)
 - Digital Elevation Model (DEM) raster (30 m resolution) from [US Geological Survey EarthExplorer](https://earthexplorer.usgs.gov/)
-- 2014 climate data from the [Basin Characterization Model](http://climate.calcommons.org/dataset/2014-CA-BCM) (BCM) for the following variable: actual evapotranspiration (AET), climatic water deficit (CWD), minimum temperature, and maximum temperature
+- 2014 climate data from the [Basin Characterization Model](http://climate.calcommons.org/dataset/2014-CA-BCM) (BCM) for the following variable: actual evapotranspiration (AET) and climatic water deficit (CWD)
 - [Boundaries](https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=boundaries) for the four National Forests in Southern California: Angeles National Forest, Cleveland National Forest, Los Padres National Forest, and San Bernardino National Forest
 
 ## Map
 
-![**Figure 2.** Yellow pine and mixed conifers in national forests with climate and elevation data in Southern California.](webmap/index.html)
+![](webmap/index.html)
+
+**Figure 2.** Yellow pine and mixed conifers in national forests with climate and elevation data in Southern California.
 
 ## Works Cited
 
