@@ -40,7 +40,7 @@ The following layers were added to the map:
 
 ## Map
 
-![](webmap/index.html)
+![](ypmc_webmap.png)
 
 **Figure 2.** Yellow pine and mixed conifers in national forests with climate and elevation data in Southern California.
 
